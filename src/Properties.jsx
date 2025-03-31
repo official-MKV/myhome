@@ -3,7 +3,7 @@ import FooterSection from "./components/FooterSection";
 import SearchSection from "./components/SearchSection";
 
 const Properties = () => {
-  propertiesData =[const properties = [
+  const propertiesData = [
   {
     image: "https://via.placeholder.com/300x200",
     name: "Modern Apartment",
